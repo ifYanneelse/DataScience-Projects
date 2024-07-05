@@ -1,2 +1,1 @@
-# DataScience-Projects
-Data Science projects: learning and challenges 
+# Análise dos Bilionários da Forbes (1997-2024)
